@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **frameworks**
 
-- 📝 I regularly write articles on [belajarphp.netlify.app](belajarphp.netlify.app)
+- 📝 I regularly write articles on [belajarphp.netlify.app](https://belajarphp.netlify.app)
 
 - 💬 Ask me about **laravel, Codeigniter**
 
