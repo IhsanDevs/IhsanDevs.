@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [DB API](https://dbapi.org)
 
-- 📝 I regularly write articles on [https://blog.dbapi.org](https://blog.dbapi.org)
+- 📝 I regularly write articles on [https://whitehat.my.id](https://whitehat.my.id)
 
 - 💬 Ask me about **Laravel, Lumen, Codeigniter**
 
