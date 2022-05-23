@@ -10,15 +10,15 @@
 <p align="left"> <a href="https://twitter.com/ihsandevs" target="blank"><img src="https://img.shields.io/twitter/follow/ihsandevs?logo=twitter&style=for-the-badge" alt="ihsandevs" /></a> </p>
 
 
-- 🔭 I’m currently working on [DB API](https://dbapi.org)
+- 🔭 ~I’m currently working on [DB API](#)~
 
 - 📝 I regularly write articles on [https://whitehat.my.id](https://whitehat.my.id)
 
 - 💬 Ask me about **Laravel, Lumen, Codeigniter**
 
-- 📫 How to reach me **ihsan_devs@pm.me**
+- 📫 How to reach me **ihsandevs@ihsandevs.com**
 
-- 📄 Know about my experiences [https://ihsandevs.me](https://ihsandevs.me)
+- 📄 Know about my experiences [https://ihsandevs.com](https://ihsandevs.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
