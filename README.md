@@ -10,9 +10,9 @@
 <p align="left"> <a href="https://twitter.com/ihsandevs" target="blank"><img src="https://img.shields.io/twitter/follow/ihsandevs?logo=twitter&style=for-the-badge" alt="ihsandevs" /></a> </p>
 
 
-- 🔭 ~I’m currently working on [DB API](#)~
+- 🔭 I’m currently working on [AI Tech](https://ai-tech.id)
 
-- 📝 I regularly write articles on [https://whitehat.my.id](https://whitehat.my.id)
+- 📝 I regularly write articles on [my blog site](https://ihsandevs.blog)
 
 - 💬 Ask me about **Laravel, Lumen, Codeigniter**
 
