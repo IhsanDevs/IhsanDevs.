@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is Ihsan Devsand I'm a Cyber Security Enthusiast, from Indonesia</h4>
+<h4 align="left">Hi 👋! My name is Ihsan Devs and I'm a Cyber Security Enthusiast, from Indonesia</h4>
 
 ###
 
@@ -9,11 +9,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/KKJJQst/ihsandevs.gif"  />
+<img align="right" height="150" src="./ihsandevs.gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -33,7 +33,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@IhsanDevs" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -56,8 +56,8 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ihsandevs&theme=default" alt="Layout with last medium posts"  />
 </div>
 
-###
+### -->
